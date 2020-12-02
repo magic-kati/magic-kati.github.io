@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ v6</h1>
+
 <p align="center">The 6th iteration of my personal site built with <a target="_blank" rel="nofollow noopener noreferrer" href="https://nextjs.org/">Next.js</a> and hosted with <a href="https://www.netlify.com/" rel="nofollow noopener noreferrer">Netlify</a>.</p>
 
 <div align="center">
